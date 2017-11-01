@@ -1,1 +1,9 @@
-sa
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "nl.rabomobiel.debug",
+    "sha256_cert_fingerprints":
+    ["62:1F:A2:EC:E7:4A:16:E9:11:CB:3E:F9:F9:0E:98:39:D9:8E:71:E8:4A:DF:1D:F7:BF:11:F9:69:88:02:99:F3"]
+  }
+}]
