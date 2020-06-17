@@ -1,0 +1,62 @@
+[
+    {
+        "id": "03ad13b",
+        "title": "Ozb sterk gestegen in plaatsen in regio",
+        "label": null,
+        "introText": null,
+        "additionalText": null,
+        "detailUrl": "https://popular-mobile-api-pop-1586-ad.team010.persgroep.cloud/mobile/article/03ad13b?scale=1.0",
+        "publicationDate": "2017-03-10T08:36:00+01:00",
+        "picture": {
+            "url": "https://images2.acc.persgroep.net/rcs/Mgqryjk9RTBasdNxCF68ifs9dj8/diocontent/100138690/_fill/320/240/?appId=d1b46720b256ff6a478a806acc251047&quality=0.6&desiredformat=webp",
+            "width": 320,
+            "height": 240
+        },
+        "video": false,
+        "style": null,
+        "externalUrl": null,
+        "liveVideoData": null,
+        "paidContent": false,
+        "articleType": "NORMAL"
+    },
+    {
+        "id": "aa8cbfe",
+        "title": "Provincie pakt verkeersknelpunten in regio aan",
+        "label": null,
+        "introText": null,
+        "additionalText": null,
+        "detailUrl": "https://popular-mobile-api-pop-1586-ad.team010.persgroep.cloud/mobile/article/aa8cbfe?scale=1.0",
+        "publicationDate": "2017-03-10T10:55:00+01:00",
+        "picture": {
+            "url": "https://images1.acc.persgroep.net/rcs/xpzCbOosYdTKMIt1mOaXRJWiQAQ/diocontent/100138822/_fill/320/240/?appId=d1b46720b256ff6a478a806acc251047&quality=0.6&desiredformat=webp",
+            "width": 320,
+            "height": 240
+        },
+        "video": false,
+        "style": null,
+        "externalUrl": null,
+        "liveVideoData": null,
+        "paidContent": false,
+        "articleType": "NORMAL"
+    },
+    {
+        "id": "cdbcbf8",
+        "title": "Twee miljoen glasaaltjes beginnen aan een cyclus",
+        "label": null,
+        "introText": null,
+        "additionalText": null,
+        "detailUrl": "https://popular-mobile-api-pop-1586-ad.team010.persgroep.cloud/mobile/article/cdbcbf8?scale=1.0",
+        "publicationDate": "2017-03-10T19:58:00+01:00",
+        "picture": {
+            "url": "https://images3.acc.persgroep.net/rcs/OiP7DBImzpyMoVIpFzED_XSLDrY/diocontent/100139363/_fill/320/240/?appId=d1b46720b256ff6a478a806acc251047&quality=0.6&desiredformat=webp",
+            "width": 320,
+            "height": 240
+        },
+        "video": false,
+        "style": null,
+        "externalUrl": null,
+        "liveVideoData": null,
+        "paidContent": false,
+        "articleType": "NORMAL"
+    }
+]
